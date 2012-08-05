@@ -1,0 +1,28 @@
+{% block header %}
+<div class="main">
+<!-- header -->
+	<header>
+		<nav>
+			<ul id="menu">
+				<li id="menu_active"><a href="index.html">Home</a></li>
+				<li><a href="Interiors.html">Interiors</a></li>
+				<li><a href="Press.html">Press</a></li>
+				<li><a href="Specials.html">Specials</a></li>
+				<li class="bg_none"><a href="Contacts.html">Contacts</a></li>
+			</ul>
+		</nav>
+		<ul id="icon">
+			<li><a href="#"><img src="images/icon1.jpg" alt=""></a></li>
+			<li><a href="#"><img src="images/icon2.jpg" alt=""></a></li>
+			<li><a href="#"><img src="images/icon3.jpg" alt=""></a></li>
+			<li><a href="#"><img src="images/icon4.jpg" alt=""></a></li>
+			<li><a href="#"><img src="images/icon5.jpg" alt=""></a></li>
+		</ul>
+	</header>
+</div>
+<div class="body1">
+	<div class="body2">
+		<div class="main">
+			<h1><a href="index.html" id="log"></a></h1>
+<!-- / header-->
+{% endblock %}

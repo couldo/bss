@@ -96,8 +96,8 @@ pallier aux problèmes évoqués.</p>
 					</article>
 				</div>
 				<div class="wrapper">
-					<!--<article class="col1"><a href="#" class="button">More</a></article>
-					<article class="col3 pad_left1"><a href="#" class="button">More</a></article> -->
+					<article class="col1"><a href="#" class="button">More</a></article>
+					<article class="col3 pad_left1"><a href="#" class="button">More</a></article>
 				</div>
 			</section>
 <!-- / content -->
